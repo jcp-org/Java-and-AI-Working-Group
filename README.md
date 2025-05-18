@@ -16,7 +16,11 @@ The purpose of this working group is to ...
 # Challanges
 
 What do we want to solve
+
 What needs to be done and what are the next steps
+
+What should be the final result, where we want to be
+
 Accelerate development of AI in Java on the platform level
 
 # Related Open JDK Projects
