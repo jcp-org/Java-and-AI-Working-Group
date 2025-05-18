@@ -37,6 +37,12 @@ This is what we want, this is what is helpfull
 * Give us feedback, share your, experience, not what dont you do this, what about my use case
 * Share our high level slides on social media and events
 
+# Communication Channels
+
+* Open JDK mailing list
+* Issues on GitHub?
+  
+
 # Using AI in Java vs Building AI in Java
 
 
