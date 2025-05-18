@@ -11,7 +11,7 @@ What do we want to solve
 What needs to be done and what are the next steps
 Accelerate development of AI in Java on the platform level
 
-# How Can You Hejp/Participate
+# How Can You Help/Participate
 
 This is what we want, this is what is helpfull
 
