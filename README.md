@@ -1,29 +1,21 @@
 # Java-and-AI-Working-Group
-Java and AI is a working group to promote the use of Java in Artificial Intelligence.
-
-# Purpose
-
-The purpose of this working group is to ...
+Java and AI is a working group is the JCP EC working group to promote, support and accelerate development of Java platform for Artificial Intelligence.
 
 # People and Organizations
 
 * Mala Gupta, Jetbrains
 * Heather Vancura, Java Community Process
 * Tanja Obradovic, Eclipse Foundation
-* ?, Oracle
 * Zoran Sevarac, Deep Netts
 
 # Challanges
 
-What do we want to solve
-
-What needs to be done and what are the next steps
-
-What should be the final result, where we want to be
-
-Accelerate development of AI in Java on the platform level
+* What do we want to solve (what needs to be solved?)
+* What should be the final result, where we want to be
+* What needs to be done and what are the next steps (roadmap)
 
 # Related Open JDK Projects
+
 * Panama - connect Java with other platforms (C, Python, ..) while preserving key benefits of Java platform security, stability and performance, and reducing maintainance overhead and cost
 * Vector API - use CPU vector opertaions and accelerate primitive mathematical operations used for AI/machine learning
 * Babylon - Code transformation GPU programming
@@ -41,8 +33,8 @@ This is what we want, this is what is helpfull
 
 * Open JDK mailing list
 * Issues on GitHub?
-  
 
 # Using AI in Java vs Building AI in Java
 
+What does 'using Java for AI' mean for different users
 
