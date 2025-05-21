@@ -26,7 +26,7 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 This is what we want, this is what is helpfull
 
 * Review and Try things out - what? Be specific about this
-* Give us feedback, share your, experience, not what dont you do this, what about my use case
+* Give us feedback, share your, experience, not why you do it this way, what about my use case
 * Share our high level slides on social media and events
 
 # Communication Channels
