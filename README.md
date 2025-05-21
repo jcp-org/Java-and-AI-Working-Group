@@ -34,7 +34,3 @@ This is what we want, this is what is helpfull
 * Open JDK mailing list
 * GitHub?
 
-# Using AI in Java vs Building AI in Java
-
-What does 'using Java for AI' mean for different users
-
