@@ -1,5 +1,5 @@
 # Java-and-AI-Working-Group
-Java and AI is a working group is the JCP EC working group to promote, support and accelerate development of Java platform for Artificial Intelligence.
+The purporse of the JCP EC AI working group is to promote, support and accelerate development of Java platform for Artificial Intelligence.
 
 # People and Organizations
 
