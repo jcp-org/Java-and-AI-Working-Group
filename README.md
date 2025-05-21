@@ -8,7 +8,7 @@ Java and AI is a working group is the JCP EC working group to promote, support a
 * Tanja Obradovic, Eclipse Foundation
 * Zoran Sevarac, Deep Netts
 
-# Challanges
+# Challanges and Painpoints
 
 * What do we want to solve (what needs to be solved?)
 * What should be the final result, where we want to be
