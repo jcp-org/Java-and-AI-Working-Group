@@ -31,6 +31,6 @@ This is what we want, this is what is helpfull
 
 # Communication Channels
 
-* Open JDK mailing list
+* Open JDK mailing list https://mail.openjdk.org/mailman/listinfo
 * GitHub?
 
