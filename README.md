@@ -32,7 +32,7 @@ This is what we want, this is what is helpfull
 # Communication Channels
 
 * Open JDK mailing list
-* Issues on GitHub?
+* GitHub?
 
 # Using AI in Java vs Building AI in Java
 
