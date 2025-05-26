@@ -10,7 +10,7 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 
 # Challanges and Painpoints
 
-* What do we want to solve/what needs to be solved?
+* What do we want to solve / what needs to be solved?
 * What should be the final result, where we want to be
 * What needs to be done and what are the next steps (roadmap)
 
@@ -23,10 +23,10 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 
 # How Can You Help/Participate
 
-This is what we want, this is what is helpfull
+This is what we want, this is what is helpfull:
 
-* Review and Try things out - what? Be specific about this
-* Give us feedback, share your, experience, not why you do it this way, what about my use case
+* Review and try things out. - What, lets' be specific about this and give examples
+* Give us feedback, share your experience. Not 'why you do it this way' or 'what about my use case'
 * Share our high level slides on social media and events
 
 # Communication Channels
