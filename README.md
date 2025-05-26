@@ -20,7 +20,7 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
     * [Vector API](https://openjdk.org/jeps/469) - use CPU vector opertaions and accelerate primitive mathematical operations used for AI/machine learning (part of Panama)
 * [Babylon](https://openjdk.org/projects/babylon/) - extend the reach of Java to foreign programming models such as GPUs
 * [Valhalla](https://openjdk.org/projects/valhalla/) is augmenting the Java object model with value objects, combining the abstractions of object-oriented programming with the performance characteristics of simple primitives.
-* [HAT (Heterogenious Acceleration Toolkit)](https://cr.openjdk.org/~psandoz/conferences/2024-JVMLS/JAVA_BABYLON_HAT-JVMLS-24-08-05.pdf) How Babylon and Panama Enable Java GPGPU Collaboration Opportunities
+* [HAT (Heterogenious Acceleration Toolkit)](https://cr.openjdk.org/~psandoz/conferences/2024-JVMLS/JAVA_BABYLON_HAT-JVMLS-24-08-05.pdf) How Babylon and Panama Enable Java GPGPU
 
 # How Can You Help/Participate
 
