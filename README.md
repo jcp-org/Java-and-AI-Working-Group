@@ -32,13 +32,13 @@ This is what we want, this is what is helpfull:
 
 # Communication Channels
 
-* [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo) List of all OPen JD mailing liosts
+* [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo) List of all Open JDK mailing liosts
 * [panama-dev](https://mail.openjdk.org/mailman/listinfo/panama-dev) Technical discussion related to the Panama Project
 * panama-spec-comments 	Panama Project Expert Group Comments
 * panama-spec-experts 	Moderated specification-only discussions for the Panama Project
-* panama-spec-observers 	Panama Project Expert Group Observers
+* panama-spec-observers Panama Project Expert Group Observers
 * babylon-dev 	Technical discussion related to the Babylon Project
-* valhalla-dev 	Technical discussion related to Project Valhalla
+* valhalla-dev Technical discussion related to Project Valhalla
 * valhalla-spec-comments 	Valhalla Expert Group Comments
 * valhalla-spec-experts 	Moderated specification-only discussions for the Valhalla Project
 * valhalla-spec-observers 	Valhalla Expert Group Observers
