@@ -33,7 +33,7 @@ This is what we want, this is what is helpfull:
 # Communication Channels
 
 * [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo) List of all OPen JD mailing liosts
-* * [panama-dev](https://mail.openjdk.org/mailman/listinfo/panama-dev) Technical discussion related to the Panama Project
+    * [panama-dev](https://mail.openjdk.org/mailman/listinfo/panama-dev) Technical discussion related to the Panama Project
 * panama-spec-comments 	Panama Project Expert Group Comments
 * panama-spec-experts 	Moderated specification-only discussions for the Panama Project
 * panama-spec-observers 	Panama Project Expert Group Observers
