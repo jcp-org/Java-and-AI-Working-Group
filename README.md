@@ -28,6 +28,11 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 * panama-spec-observers 	Panama Project Expert Group Observers
 * babylon-dev 	Technical discussion related to the Babylon Project
 
+* valhalla-dev 	Technical discussion related to Project Valhalla
+* valhalla-spec-comments 	Valhalla Expert Group Comments
+* valhalla-spec-experts 	Moderated specification-only discussions for the Valhalla Project
+* valhalla-spec-observers 	Valhalla Expert Group Observers
+
 # How Can You Help/Participate
 
 This is what we want, this is what is helpfull:
