@@ -16,10 +16,11 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 
 # Related Open JDK Projects
 
-* [Panama](https://openjdk.org/projects/panama/) - Interconnecting JVM and native code (C, Python, ..) while preserving key benefits of Java platform security, stability and performance, and reducing maintainance overhead and cost
-* Vector API - use CPU vector opertaions and accelerate primitive mathematical operations used for AI/machine learning
+* [Panama](https://openjdk.org/projects/panama/) - Interconnecting JVM and native code (C, Python, ..)
+* [Vector API](https://openjdk.org/jeps/469) - use CPU vector opertaions and accelerate primitive mathematical operations used for AI/machine learning
 * Babylon - Code transformation GPU programming
 * Valhalla
+* HAT (Heterogenious Acceleration Toolkit)
 
 * panama-dev 	Technical discussion related to the Panama Project
 * panama-spec-comments 	Panama Project Expert Group Comments
