@@ -21,6 +21,11 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 * Babylon - Code transformation GPU programming
 * Valhalla
 
+** panama-dev 	Technical discussion related to the Panama Project
+** panama-spec-comments 	Panama Project Expert Group Comments
+** panama-spec-experts 	Moderated specification-only discussions for the Panama Project
+** panama-spec-observers 	Panama Project Expert Group Observers
+
 # How Can You Help/Participate
 
 This is what we want, this is what is helpfull:
