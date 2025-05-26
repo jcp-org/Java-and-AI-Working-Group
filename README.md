@@ -22,16 +22,6 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 * [Valhalla](https://openjdk.org/projects/valhalla/) is augmenting the Java object model with value objects, combining the abstractions of object-oriented programming with the performance characteristics of simple primitives.
 * [HAT (Heterogenious Acceleration Toolkit)](https://cr.openjdk.org/~psandoz/conferences/2024-JVMLS/JAVA_BABYLON_HAT-JVMLS-24-08-05.pdf) How Babylon and Panama Enable Java GPGPU Collaboration Opportunities
 
-* [panama-dev](https://mail.openjdk.org/mailman/listinfo/panama-dev) Technical discussion related to the Panama Project
-* panama-spec-comments 	Panama Project Expert Group Comments
-* panama-spec-experts 	Moderated specification-only discussions for the Panama Project
-* panama-spec-observers 	Panama Project Expert Group Observers
-* babylon-dev 	Technical discussion related to the Babylon Project
-* valhalla-dev 	Technical discussion related to Project Valhalla
-* valhalla-spec-comments 	Valhalla Expert Group Comments
-* valhalla-spec-experts 	Moderated specification-only discussions for the Valhalla Project
-* valhalla-spec-observers 	Valhalla Expert Group Observers
-
 # How Can You Help/Participate
 
 This is what we want, this is what is helpfull:
@@ -42,6 +32,15 @@ This is what we want, this is what is helpfull:
 
 # Communication Channels
 
-* [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo)
+* [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo) List of all OPen JD mailing liosts
+* * [panama-dev](https://mail.openjdk.org/mailman/listinfo/panama-dev) Technical discussion related to the Panama Project
+* panama-spec-comments 	Panama Project Expert Group Comments
+* panama-spec-experts 	Moderated specification-only discussions for the Panama Project
+* panama-spec-observers 	Panama Project Expert Group Observers
+* babylon-dev 	Technical discussion related to the Babylon Project
+* valhalla-dev 	Technical discussion related to Project Valhalla
+* valhalla-spec-comments 	Valhalla Expert Group Comments
+* valhalla-spec-experts 	Moderated specification-only discussions for the Valhalla Project
+* valhalla-spec-observers 	Valhalla Expert Group Observers
 * GitHub?
 
