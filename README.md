@@ -32,7 +32,8 @@ This is what we want, this is what is helpfull:
 
 # Communication Channels
 
-* [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo) List of all Open JDK mailing liosts
+* [Open JDK mailing lists](https://mail.openjdk.org/mailman/listinfo) List of all Open JDK mailing lists
+* GitHub Issue as a communication channel for this WG?
 
 ## Panama
   
@@ -51,5 +52,3 @@ This is what we want, this is what is helpfull:
 * [valhalla-spec-comments](https://mail.openjdk.org/mailman/listinfo/valhalla-spec-comments) Valhalla Expert Group Comments
 * [valhalla-spec-experts](https://mail.openjdk.org/mailman/listinfo/valhalla-spec-experts) Moderated specification-only discussions for the Valhalla Project
 * [valhalla-spec-observers](https://mail.openjdk.org/mailman/listinfo/valhalla-spec-observers) 	Valhalla Expert Group Observers
-* GitHub Issue as a communication channel for this WG?
-
