@@ -3,10 +3,9 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 
 # People and Organizations
 
-* Mala Gupta, Jetbrains
-* Heather Vancura, Java Community Process
-* Tanja Obradovic, Eclipse Foundation
-* Zoran Sevarac, Deep Netts Technologies
+* Heather Vancura, JCP Chair, Working Group Lead
+* Zoran Sevarac, Deep Netts Technologies, Working Group Lead
+* [JCP Executive Committee Members](https://jcp.org/en/participation/committee#membership)
 
 # Challanges and Painpoints
 
@@ -26,7 +25,7 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 
 This is what we want, this is what is helpfull:
 
-* Review and try things out. - What, lets' be specific about this and give examples
+* Review and try things out. - What, let's be specific about this and give examples
 * Give us feedback, share your experience. Not 'why you do it this way' or 'what about my use case'
 * Share our high level slides on social media and events
 
