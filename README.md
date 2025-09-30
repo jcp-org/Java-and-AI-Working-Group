@@ -7,6 +7,9 @@ The purporse of the JCP EC AI working group is to promote, support and accelerat
 * Zoran Sevarac, Deep Netts Technologies, Working Group Lead
 * [JCP Executive Committee Members](https://jcp.org/en/participation/committee#membership)
 
+# Meetings and Information
+For information and presentation materials, refer to the [Java and AI wiki](https://github.com/jcp-org/Java-and-AI-Working-Group/wiki)
+
 # Challanges and Painpoints
 
 * What do we want to solve / what needs to be solved?
